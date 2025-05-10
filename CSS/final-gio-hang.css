@@ -1,0 +1,16 @@
+@charset "utf-8";
+	.NormalCharacterStyle1
+{
+	font-family : UTM Avo;
+	font-weight : bold;
+	font-size : 26px;
+	color : #010101;
+	color : rgb(1, 1, 1);
+}
+.NormalCharacterStyle
+{
+	font-family : UTM Avo;
+	font-size : 26px;
+	color : #010101;
+	color : rgb(1, 1, 1);
+}

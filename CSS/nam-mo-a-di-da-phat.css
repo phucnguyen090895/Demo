@@ -1,0 +1,47 @@
+@charset "utf-8";
+	.NormalCharacterStyle4
+{
+	font-family : Myriad Pro;
+	font-size : 15px;
+	line-height : 17.07px;
+	letter-spacing : 0.15px;
+	color : #492B72;
+	color : rgb(73, 43, 114);
+	text-outline : #492B72;
+	text-outline : rgb(73, 43, 114);
+}
+.NormalCharacterStyle2
+{
+	font-family : UTM Avo;
+	font-weight : bold;
+	font-size : 65px;
+	color : #FFFEF9;
+	color : rgb(255, 254, 249);
+}
+.NormalCharacterStyle3
+{
+	font-family : Myriad Pro;
+	font-size : 72px;
+	line-height : 72px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle1
+{
+	font-family : UTM Avo;
+	font-weight : bold;
+	font-size : 150px;
+	line-height : 189px;
+	text-outline : #F68521;
+	text-outline : rgb(246, 133, 33);
+}
+.NormalCharacterStyle
+{
+	font-family : UTM Caviar;
+	font-size : 361px;
+	line-height : 72px;
+	color : #F68521;
+	color : rgb(246, 133, 33);
+	text-outline : #F68521;
+	text-outline : rgb(246, 133, 33);
+}

@@ -1,0 +1,49 @@
+@charset "utf-8";
+	.NormalCharacterStyle4
+{
+	font-family : UTM Avo;
+	font-weight : bold;
+	font-size : 26px;
+	color : #010101;
+	color : rgb(1, 1, 1);
+}
+.NormalCharacterStyle2
+{
+	font-family : UTM Avo;
+	font-size : 46px;
+	line-height : 30px;
+	color : #FFFEF9;
+	color : rgb(255, 254, 249);
+}
+.NormalCharacterStyle3
+{
+	font-family : UTM Avo;
+	font-size : 46px;
+	line-height : 30px;
+	color : #FFFEF9;
+	color : rgb(255, 254, 249);
+}
+.NormalCharacterStyle1
+{
+	font-family : UTM Avo;
+	font-size : 46px;
+	line-height : 30px;
+	color : #FFFEF9;
+	color : rgb(255, 254, 249);
+}
+.NormalCharacterStyle
+{
+	font-family : UTM Avo;
+	font-weight : bold;
+	font-size : 36px;
+	line-height : 30px;
+	color : #492B72;
+	color : rgb(73, 43, 114);
+}
+.NormalCharacterStyle5
+{
+	font-family : UTM Avo;
+	font-size : 26px;
+	color : #010101;
+	color : rgb(1, 1, 1);
+}
